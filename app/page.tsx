@@ -463,7 +463,7 @@ export default function Portfolio() {
               </a>
               
               <a 
-                href="https://linkedin.com/in/sweta-biswas" 
+                href="https://www.linkedin.com/in/sweta-biswas-828ab2289/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="group px-8 py-4 bg-gray-800 hover:bg-gray-700 rounded-xl font-semibold transition-all duration-300 hover:scale-105 border border-gray-700 hover:border-blue-400 flex items-center justify-center"
